@@ -18,7 +18,7 @@ void insere_aluno(Aluno **v, int *n);   // Ex 4
 void imprime_alunos(Aluno *v, int n);   // Ex 5
 float media_alunos(Aluno *v, int n);    // Ex 6
 Aluno * busca_aluno(Aluno *v, int n, char nome[]); // Ex 7
-void remove_aluno(Aluno *v, int n, char nome []);
+void remove_aluno(Aluno *v, int n, char nome []);  // Ex 8
 
 int main(){
 	
